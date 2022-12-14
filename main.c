@@ -2,8 +2,8 @@
 
 int main(){
 
-	printf("Hello World and poli and politocean!");
-	int a =0;
+	printf("Hello World and poli dajsgdshdjkshdkahdsajsda!");
+	int a =5;
 	return 0;
 
 }
